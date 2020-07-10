@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I am a Machine Learning and Data Science enthusiast. Currently working on a group project in which we are building a conversational bot 'Shiro', a personalized virtual assistant targeting two age groups, 1-3 years and 3-6 years. Connect with me on LinkedIn to know more about me or my projects:
+[a link] (https://www.linkedin.com/in/ayush-garg-23395015a/)
 <!--
 **ayush7garg/ayush7garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
